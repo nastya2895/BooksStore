@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <title>Central Book Store</title>
+  <BooksList>
+    <Book Name="Harry Potter">
+      <Genre>Fantasy</Genre>
+      <Author>Joanne Rowling</Author>
+    </Book>
+    <Book Name="Tom Sawyer">
+      <Genre>TravelBooks</Genre>
+      <Author>Mark Twen</Author>
+    </Book>
+    <Book Name="Lost">
+      <Genre>Thriller</Genre>
+      <Author>Gillian Flynn</Author>
+    </Book>
+    <Book Name="Men who hate women">
+      <Genre>Detective</Genre>
+      <Author>Stieg Larsson</Author>
+    </Book>
+    <Book Name="The One">
+      <Genre>Detective</Genre>
+      <Author>John Marrs</Author>
+    </Book>
+    <Book Name="Road">
+      <Genre>TravelBooks</Genre>
+      <Author>Jack London</Author>
+    </Book>
+    <Book Name="Twelve Dancing Princesses">
+      <Genre>FairyTale</Genre>
+      <Author>Brothers Grimm</Author>
+    </Book>
+  </BooksList>
+</BookStore>
